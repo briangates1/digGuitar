@@ -1,9 +1,7 @@
 /*
  * Brian Gates
- * Final Proj
  * 4/28/2019
- * https://youtu.be/sGWKaB_44KM
- * 
+ *
  */
 
 int incomingData = 1;
